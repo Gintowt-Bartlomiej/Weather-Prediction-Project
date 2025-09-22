@@ -1,11 +1,18 @@
-# Projekt PGM
- 
-W ramach projektu PGM zdecydowaliśmy się na podjęcie zadania predykcji pogody. Chcieliśmy porównać metody poznane na laboratorium z innymi, mającymi podobne zastosowania.
+# PGM Project – Weather Prediction
 
-## Uruchomienie
-Aby uruchomić projekt należy pobrać zbiór danych [Weather Prediction](https://www.kaggle.com/datasets/muthuj7/weather-dataset?resource=download) i umieścić go w folderze `data`. Następnie należy uruchomić notebook `EDA.ipynb`.
+## Author
+**Bartłomiej Gintowt**
 
-Modele zaimplementowane w projekcie znajdują się w folderze `models`. Aby uruchomić je należy uruchomić poszczególne notebooki.
+As part of the **Probabilistic Graphical Models (PGM)** course project, I focused on the task of **weather prediction**.  
+The goal was to compare the methods studied during the labs with alternative approaches used for similar predictive tasks.
 
-## Raport
-Raport z projektu znajduje się w pliku `raport.pdf`.
+## How to Run
+1. Download the dataset: [Weather Prediction](https://www.kaggle.com/datasets/muthuj7/weather-dataset?resource=download).  
+2. Place the dataset inside the `data/` directory.  
+3. Start with the exploratory data analysis by running the `EDA.ipynb` notebook.  
+
+The implemented models can be found in the `models/` directory.  
+Each model can be executed by opening and running its corresponding notebook.
+
+## Report
+A detailed description of the project and results is available in the file: `raport.pdf`.
